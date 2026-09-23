@@ -1,9 +1,4 @@
-#include <iostream>
-#include <vector>
-#include <queue>
-#include <string>
-#include <map>
-
+#include <bits/stdc++.h>
 using namespace std;
 
 struct Node {
