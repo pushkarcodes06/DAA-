@@ -39,7 +39,6 @@ Node* buildTree() {
     return root;
 }
 
-// Preorder: Process Root, then Left subtree, then Right subtree
 void preorder(Node* r) { 
     if (!r) return; 
     cout << r->val << " "; 
